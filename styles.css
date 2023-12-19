@@ -1,6 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rubik+Doodle+Shadow&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Oswald:wght@300&display=swap');
+
 h1{
-    font-family:'https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&family=Rubik+Scribble&family=Whisper&display=swap';
+    font-family: Rubik Doodle Shadow;
+    color: #FFF7D4;
 }
 html{
-    background-color: 52D3D8;
+    background-color: #F4EAE0;
 }
+.heading{
+    background-color: black;
+    border-radius: 10px;
+    border: black solid 5px;
+}
+.centre-View{
+    text-align: center;
+}
+.oneline{
+    display: inline;
+    margin-right: 20px; 
+    color: white;
+    padding-top: 10px;
+}
+.menu{
+    background-color: #161A30;
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 20px;
+}
+img{
+    height: 200px;
+    width: 400px;
+    margin-top: 10px;
+    margin: 20px;
+    float: left;
+    border-radius: 20px;
+}
+p{
+    font-family: Oswald;
+    font-size: 20px;
+    color: #200E3A;
+}
+h2{
+    font-family: Josefin Sans;
+    font-size: 30px;
+}
+.end{
+    clear: left;
+}
+.cancel{
+    clear: left;
+}
+.sameline{
+    display: inline;
+}
+
